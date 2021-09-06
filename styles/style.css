@@ -125,6 +125,11 @@ p {
   margin:0
 }
 
+#titel{
+  background-color: white;
+  padding: 5px;
+  border-radius: 20px;
+}
 article > p {
   padding:3rem 2rem;
   margin-top: 0;
