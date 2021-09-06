@@ -79,15 +79,15 @@ h2 {
 img {
   width:10em;
   border-radius:10em;
-  border:5px solid #fff;
-  box-shadow:0 0 2px 2px rgba(0,0,0,.2);
+  border:5px solid rgba(0,239,255,1);
+ 
   position:relative;
   top:2rem;
   transition:.25s .15s;
 }
 dl {
   width:100%;
-  background: rgb(255,255,255);
+  background: rgb(66, 115, 172);
   
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
